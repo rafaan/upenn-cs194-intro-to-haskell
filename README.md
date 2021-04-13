@@ -1,1 +1,1 @@
-# upenn-cs194-intro-to-haskell
+https://www.cis.upenn.edu/~cis194/spring13/
